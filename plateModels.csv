@@ -1,0 +1,8 @@
+﻿RegionNumber,PlateName,PlateType,ReferenceFrame,Rx_nrad_per_yr,Ry_nrad_per_yr,Rz_nrad_per_yr,Tx_mm_per_yr,Ty_mm_per_yr
+14,North America,Primary  ,ITRF2008,0.17,-3.209,-0.485,0.41,0.22
+15,Pacific,Primary  ,ITRF2008,-1.993,5.023,-10.501,0.41,0.22
+16,Caribbean,Secondary,ITRF2008,0.238,-5.275,3.219,0.41,0.22
+17,Mariana ,Tertiary,ITRF2000,-0.097,0.509,-1.682,0,0
+18,Africa (Nubia),Primary  ,ITRF2014,0.47997,-2.97676,3.55368,0,0
+20,Australia ,Primary  ,ITRF2014,7.32069,5.7305,5.89049,0,0
+21,Eurasia,Primary  ,ITRF2014 ,-0.41209,-2.57436,3.73307,0,0
